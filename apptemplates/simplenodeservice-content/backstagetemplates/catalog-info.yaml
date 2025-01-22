@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/terotsi/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://turbo-sniffle-ppxwq6rgg7h6j5r-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://turbo-sniffle-ppxwq6rgg7h6j5r-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
