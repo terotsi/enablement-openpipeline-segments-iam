@@ -14,12 +14,12 @@ metadata:
     - url: https://github.com/terotsi/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://turbo-sniffle-ppxwq6rgg7h6j5r-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://turbo-sniffle-ppxwq6rgg7h6j5r-80.app.github.dev/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://turbo-sniffle-ppxwq6rgg7h6j5r-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://turbo-sniffle-ppxwq6rgg7h6j5r-30100.app.github.dev/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://fxa53712.sprint.apps.dynatracelabs.com
